@@ -42,9 +42,9 @@ dependencies:
   get_it: ^7.6.0
 
   animate_do: ^3.0.2
-  cached_network_image: ^3.2.3
+  cached_network_image: ^3.4.1
   carousel_slider: ^4.2.1
-  google_fonts: ^3.0.1
+  google_fonts: ^6.2.1
   shimmer: ^3.0.0
 
 dev_dependencies:
